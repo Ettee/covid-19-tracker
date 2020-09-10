@@ -1,4 +1,4 @@
-This project was created with React [Reactjs](https://github.com/facebook/react/).
+This project was created with React [Reactjs](https://github.com/facebook/react/).<br/>
 Link to project:[Covid19 Tracker](https://covid-19-tracker-e9339.web.app/)
 ## Available Scripts
 
